@@ -3,7 +3,7 @@
     "label": "iRODS iCAT",
     "requiresVolume": true,
 	"description": "open source data management software",
-    "image": "ndslabs/irods-icat:latest",
+    "image": "ndslabs/irods-icat:NDS-292",
 	"access": "external",
 	"display": "stack",
     "ports": [
