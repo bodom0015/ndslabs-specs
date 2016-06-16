@@ -1,9 +1,9 @@
 {
-    "key": "imagepreview",
-    "label": "Image Preview Extractor",
-    "description": "Clowder extractor for image preview thumbnails",
-    "image": "ndslabs/image-preview:0.9.2",
-	"access": "internal",
+    "key": "imagemetadata",
+    "label": "Image Metadata Extractor",
+    "description": "Clowder extractor for image metadata",
+    "image": "ndslabs/image-metadata:0.9.2",
+    "access": "internal",
     "depends": [
         {
             "key": "rabbitmq",
@@ -23,14 +23,8 @@
         },
         {
             "name": "RABBITMQ_QUEUE",
-            "value": "ncsa.image.preview",
+            "value": "ncsa.image.metadata",
             "canOverride": false
         }
-    ],
-    "resourceLimits": {
-        "cpuMax": "1",
-        "cpuDefault": "100m",
-        "memMax": "250Mi",
-        "memDefault": "25Mi"
-    }
+    ]
 }

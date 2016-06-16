@@ -18,7 +18,13 @@
         "type" : "http",
         "path" : "app/images/beta_test_logo.png",
         "port" : 80,
-        "initialDelay": 30,
+        "initialDelay": 10,
         "timeout" : 600
+    },
+    "resourceLimits": {
+        "cpuMax": "250m",
+        "cpuDefault": "100m",
+        "memMax": "250Mi",
+        "memDefault": "100Mi"
     }
 }
