@@ -7,9 +7,9 @@
     "maintainer": "",
     "image": {
         "registry": "",
-        "name": "ndslabs/toolmanager",
+        "name": "craigwillis/toolmanager",
         "tags": [
-            "latest"
+            "NDS-588"
         ]
     },
     "display": "stack",
