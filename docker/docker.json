@@ -4,9 +4,9 @@
     "description": "Docker command-line environment for NDS Labs",
     "logo": "/asset/png/logos/docker-logo.png",
     "image": {
-        "name": "bodom0015/docker",
+        "name": "bodom0015/dind",
         "tags": [
-            "latest"
+            "NDS-698"
         ]
     },
     "ports": [

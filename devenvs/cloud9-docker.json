@@ -3,7 +3,7 @@
     "label": "Cloud9 Docker",
     "image": {
         "name": "bodom0015/cloud9-docker",
-        "tags": ["latest"]
+        "tags": ["NDS-698"]
     }, 
     "display": "stack",
     "access": "external",
