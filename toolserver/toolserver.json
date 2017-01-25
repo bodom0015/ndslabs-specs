@@ -7,7 +7,7 @@
     "maintainer": "",
     "image": {
         "registry": "",
-        "name": "ndslabs/toolmanager",
+        "name": "bodom0015/toolmanager",
         "tags": [
             "latest"
         ]

@@ -2,7 +2,7 @@
     "key": "cloud9docker",
     "label": "Cloud9 Docker",
     "image": {
-        "name": "ndslabs/cloud9-docker",
+        "name": "bodom0015/cloud9-docker",
         "tags": ["latest"]
     }, 
     "display": "stack",

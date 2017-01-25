@@ -6,9 +6,8 @@
     "maintainer": "",
     "image": {
         "registry": "",
-        "name": "ndslabs/jenkins",
+        "name": "bodom0015/jenkins",
         "tags": [
-            "dind",
             "latest"
         ]
     },
